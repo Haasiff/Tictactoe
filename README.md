@@ -1,6 +1,7 @@
 # Demo of my tictactoe
 
-![alt text](https://drive.google.com/file/d/1SGqJt9XRQlaUx5b4f3yrFa6rQxiDGIJt/view?usp=sharing)
+![Alt Text](https://drive.google.com/uc?id=1SGqJt9XRQlaUx5b4f3yrFa6rQxiDGIJt)
+
 
 # Getting Started with Create React App
 
